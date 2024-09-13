@@ -18,10 +18,6 @@ The goal is to apply community detection techniques to real-world social network
 2. Louvain Method
    - Single iteration implementation
 
-## Files in the Repository
-- `Untitled-1.ipynb`: Main Jupyter notebook containing the implementation and analysis
-- `Untitled-1 - Copy.ipynb`: Backup or alternative version of the main notebook
-- `Community Detection Assignment_v1.pdf`: Detailed problem statement and assignment guidelines
 
 ## Requirements
 - Python 3.x
